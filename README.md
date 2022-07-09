@@ -1,1 +1,1 @@
-# Lump-Sum-vs-DCA
+# LumpSum-vs-DCA
